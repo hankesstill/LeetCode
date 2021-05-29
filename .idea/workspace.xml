@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74397b77-ba32-48e5-804b-bda419a30535" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qhax7wc2Ep8Nfzia91tVYtKUxk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java_Project\algorithm\nowcoder\src" />
+      <recent name="E:\Java_Project\algorithm\basicalquestion\src\basic" />
+      <recent name="E:\Java_Project\algorithm\basicalgorithm\src\basicsort" />
+      <recent name="E:\Java_Project\algorithm\leetcode\src\com\leetcode\easy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Offer_06_从头到尾打印链表">
+    <configuration name="汉诺塔算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classiccase.汉诺塔算法" />
+      <module name="basic_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classiccase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Offer_05_替换空格 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.book.Offer_05_替换空格" />
+      <module name="leetcode_scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Offer_05_替换空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.book.Offer_05_替换空格" />
+      <module name="leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Offer_06_从头到尾打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.book.Offer_06_从头到尾打印链表" />
+      <module name="leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1_两数之和 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.easy._1_两数之和" />
+      <module name="leetcode_scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1_两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.easy._1_两数之和" />
+      <module name="leetcode_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Offer_06_从头到尾打印链表" />
+        <item itemvalue="Application.Offer_05_替换空格 (1)" />
+        <item itemvalue="Application.Offer_05_替换空格" />
+        <item itemvalue="Application._1_两数之和 (1)" />
+        <item itemvalue="Application._1_两数之和" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74397b77-ba32-48e5-804b-bda419a30535" name="Default Changelist" comment="" />
+      <created>1617534518337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617534518337</updated>
+      <workItem from="1617534519908" duration="31000" />
+      <workItem from="1617534590353" duration="66000" />
+      <workItem from="1617534705433" duration="596000" />
+      <workItem from="1617536527458" duration="915000" />
+      <workItem from="1617688259466" duration="9542000" />
+      <workItem from="1617716769637" duration="7520000" />
+      <workItem from="1617778588404" duration="1458000" />
+      <workItem from="1617780490741" duration="1824000" />
+      <workItem from="1618319169819" duration="1777000" />
+      <workItem from="1618578708270" duration="5917000" />
+      <workItem from="1618813561089" duration="5099000" />
+      <workItem from="1619090796803" duration="35000" />
+      <workItem from="1619352941621" duration="701000" />
+      <workItem from="1620913493784" duration="2498000" />
+      <workItem from="1622038927752" duration="4426000" />
+      <workItem from="1622076034291" duration="6683000" />
+      <workItem from="1622170538313" duration="1365000" />
+      <workItem from="1622172083901" duration="11392000" />
+      <workItem from="1622246376446" duration="326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#Project_Structure" timestamp="1617534536377">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1617534536377" />
+    <state x="263" y="298" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1622039879625">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="263" y="298" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1366.768@0.0.1366.768" timestamp="1622039879625" />
+    <state x="829" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1622190766029">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="829" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1622190766029" />
+    <state x="462" y="242" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1617691433669">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="462" y="242" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1617691433669" />
+    <state x="804" y="142" key="FileChooserDialogImpl" timestamp="1618832606463">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="804" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1618832606463" />
+    <state width="1323" height="166" key="GridCell.Tab.0.bottom" timestamp="1622217808638">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1622217808638" />
+    <state width="1323" height="166" key="GridCell.Tab.0.center" timestamp="1622217808637">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1622217808637" />
+    <state width="1323" height="166" key="GridCell.Tab.0.left" timestamp="1622217808637">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1622217808637" />
+    <state width="1323" height="166" key="GridCell.Tab.0.right" timestamp="1622217808638">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1622217808638" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1622172365706">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1619352984858" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1622172365706" />
+    <state x="40" y="277" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1617718341893">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="40" y="277" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.768@0.0.1366.768" timestamp="1617718341893" />
+    <state x="58" y="0" key="new project wizard" timestamp="1622076133087">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="58" y="0" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1622076133086" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1617691360436">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1617691360436" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1617724203696">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1617724203696" />
+  </component>
+</project>

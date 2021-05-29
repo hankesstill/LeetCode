@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/acwing/acwing.iml" filepath="$PROJECT_DIR$/acwing/acwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_algorithm/basic_algorithm.iml" filepath="$PROJECT_DIR$/basic_algorithm/basic_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicalquestion/basicalquestion.iml" filepath="$PROJECT_DIR$/basicalquestion/basicalquestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode_java/leetcode_java.iml" filepath="$PROJECT_DIR$/leetcode_java/leetcode_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode_scala/leetcode_scala.iml" filepath="$PROJECT_DIR$/leetcode_scala/leetcode_scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nowcoder/nowcoder.iml" filepath="$PROJECT_DIR$/nowcoder/nowcoder.iml" />
+    </modules>
+  </component>
+</project>
